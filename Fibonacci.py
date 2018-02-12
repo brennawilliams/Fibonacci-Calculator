@@ -1,3 +1,5 @@
+# Chapter 3 - Ex. 12: Fibonacci Calculator
+
 a = 0
 b = 1
 p = 1
